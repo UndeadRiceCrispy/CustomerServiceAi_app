@@ -3,7 +3,7 @@ import { Badge } from "@/components/ui/badge";
 import { Button } from "@/components/ui/button";
 import { Settings, User, Bell, Shield, Database, Palette, Globe } from "lucide-react";
 
-export default function Settings() {
+export default function SettingsPage() {
   return (
     <div className="p-6">
       <div className="flex items-center justify-between">
@@ -75,7 +75,7 @@ export default function Settings() {
                   <h4 className="text-sm font-medium">New Conversations</h4>
                   <p className="text-sm text-muted-foreground">Get notified when customers start new conversations</p>
                 </div>
-                <Badge variant="default">Enabled</Badge>
+                <Badge>Enabled</Badge>
               </div>
               <div className="flex items-center justify-between">
                 <div>

@@ -1,4 +1,4 @@
-# Lorikeet AI - Customer Service Platform
+# Evevo Ai - Customer Service Platform
 
 A comprehensive AI-powered customer service platform featuring multi-channel support, intelligent conversation handling, automated workflow management, and real-time analytics.
 

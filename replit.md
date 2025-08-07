@@ -1,6 +1,6 @@
 # Overview
 
-Lorikeet AI is a comprehensive AI-powered customer service platform that provides intelligent multi-channel support capabilities. The platform leverages Google Gemini AI to deliver contextual customer responses, automated sentiment analysis, and smart ticket categorization. It supports various communication channels including live chat, email, voice, and SMS, while providing real-time analytics and automated workflow management.
+Evevo Ai is a comprehensive AI-powered customer service platform that provides intelligent multi-channel support capabilities. The platform leverages Google Gemini AI to deliver contextual customer responses, automated sentiment analysis, and smart ticket categorization. It supports various communication channels including live chat, email, voice, and SMS, while providing real-time analytics and automated workflow management.
 
 # User Preferences
 

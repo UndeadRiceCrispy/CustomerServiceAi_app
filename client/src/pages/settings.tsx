@@ -242,7 +242,7 @@ export default function Settings() {
               <div>
                 <label className="text-sm font-medium">Platform Version</label>
                 <div className="mt-1 p-2 border rounded-md bg-muted">
-                  Lorikeet AI v1.0.0
+                  Evevo Ai v1.0.0
                 </div>
               </div>
               <div>

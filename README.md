@@ -4,35 +4,35 @@ A comprehensive AI-powered customer service platform featuring multi-channel sup
 
 ## Features
 
-### 🤖 AI-Powered Customer Service
+### AI-Powered Customer Service
 
 - **Intelligent Responses**: Google Gemini AI generates contextual customer service responses
 - **Sentiment Analysis**: Automatic analysis of customer conversation tone and satisfaction
 - **Ticket Categorization**: AI-powered classification of support requests (payment, technical, account, etc.)
 - **Smart Escalation**: Intelligent routing to human agents based on complexity
 
-### 💬 Multi-Channel Support
+### Multi-Channel Support
 
 - **Live Chat**: Real-time customer conversations with AI assistance
 - **Email Integration**: Automated email response handling
 - **Voice Support**: Voice call simulation and management
 - **SMS Support**: Text message customer interactions
 
-### 📊 Analytics & Reporting
+### Analytics & Reporting
 
 - **Real-time Metrics**: Active tickets, response times, CSAT scores
 - **Performance Tracking**: Agent productivity and workflow success rates
 - **Customer Insights**: Satisfaction ratings and interaction history
 - **Visual Dashboards**: Charts and graphs for key metrics
 
-### 🔄 Workflow Automation
+### Workflow Automation
 
 - **Process Management**: Automated multi-step customer service workflows
 - **Custom Triggers**: Configurable automation rules
 - **Success Tracking**: Monitor workflow completion rates
 - **Integration Ready**: Connect with external systems and APIs
 
-### 🔌 System Integrations
+### System Integrations
 
 - **CRM Systems**: HubSpot, Salesforce connectivity
 - **Communication Platforms**: Microsoft Teams integration

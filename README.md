@@ -220,11 +220,13 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Support
 
 For questions, issues, or feature requests, please open an issue on GitHub or contact the development team.
+This app was designed by me, and thus, should you need any help with its deployment or desire to collaborate, you can find my information on my profile! 
 
 ## Acknowledgments
 
 - Built with modern web technologies and AI capabilities
 - Inspired by leading customer service platforms
 - Designed for scalability and extensibility# CustomerServiceAi_app
+- Built by JWebb
 
 ## CustomerServiceAi_app
